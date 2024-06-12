@@ -1,0 +1,186 @@
+07-Nov-2022 12:20:06 INFO - Trainees data found
+07-Nov-2022 12:21:16 ERROR - org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+07-Nov-2022 12:22:10 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on lin80033247 with PID 15636 (C:\Users\gakumars\Documents\womenEmpGit\Sprint1\WomenEmpowerment\target\classes started by gakumars in C:\Users\gakumars\Documents\womenEmpGit\Sprint1\WomenEmpowerment)
+07-Nov-2022 12:22:10 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+07-Nov-2022 12:22:10 INFO - No active profile set, falling back to 1 default profile: "default"
+07-Nov-2022 12:22:16 INFO - Started WomenEmpowermentApplication in 6.687 seconds (JVM running for 7.515)
+07-Nov-2022 12:22:42 ERROR - org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+07-Nov-2022 12:30:23 INFO - Trainees data found
+08-Nov-2022 13:23:27 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on lin80033247 with PID 16356 (C:\Users\gakumars\Documents\womenEmpGit\Sprint1\WomenEmpowerment\target\classes started by gakumars in C:\Users\gakumars\Documents\womenEmpGit\Sprint1\WomenEmpowerment)
+08-Nov-2022 13:23:27 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+08-Nov-2022 13:23:27 INFO - No active profile set, falling back to 1 default profile: "default"
+08-Nov-2022 13:23:38 INFO - Started WomenEmpowermentApplication in 12.227 seconds (JVM running for 14.178)
+08-Nov-2022 13:24:23 ERROR - com.womenEmp.exception.WomenEmpException: Service.USER_NOT_PRESENT
+08-Nov-2022 13:25:12 INFO - user successfully registered
+08-Nov-2022 13:25:26 INFO - user successfully registered
+08-Nov-2022 13:25:32 INFO - user successfully registered
+08-Nov-2022 13:25:50 INFO - user successfully registered
+08-Nov-2022 13:53:48 INFO - Trainees data found
+08-Nov-2022 15:34:28 INFO - user successfully registered
+08-Nov-2022 15:34:38 INFO - user successfully registered
+08-Nov-2022 15:43:52 ERROR - org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+08-Nov-2022 15:44:43 ERROR - org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+08-Nov-2022 15:45:20 INFO - Trainee data added successfully
+08-Nov-2022 15:45:50 INFO - Trainees data found
+08-Nov-2022 15:47:57 ERROR - com.womenEmp.exception.WomenEmpException: Service.AADHAR_NUMBER_ALREADY_PRESENT
+08-Nov-2022 15:48:05 ERROR - com.womenEmp.exception.WomenEmpException: Service.AADHAR_NUMBER_ALREADY_PRESENT
+08-Nov-2022 15:48:46 ERROR - com.womenEmp.exception.WomenEmpException: Service.AADHAR_NUMBER_ALREADY_PRESENT
+08-Nov-2022 15:50:39 INFO - Trainee data added successfully
+08-Nov-2022 15:51:35 ERROR - org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+08-Nov-2022 15:51:49 ERROR - org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+08-Nov-2022 15:52:01 ERROR - org.springframework.dao.InvalidDataAccessApiUsageException: The given id must not be null!; nested exception is java.lang.IllegalArgumentException: The given id must not be null!
+08-Nov-2022 16:14:34 INFO - user successfully registered
+08-Nov-2022 16:42:48 INFO - Trainees data found
+08-Nov-2022 16:42:48 INFO - Trainees data found
+08-Nov-2022 16:43:44 INFO - Trainees data found
+08-Nov-2022 16:43:44 INFO - Trainees data found
+08-Nov-2022 16:44:30 INFO - Trainees data found
+08-Nov-2022 16:44:30 INFO - Trainees data found
+08-Nov-2022 16:44:41 INFO - Trainees data found
+08-Nov-2022 16:44:41 INFO - Trainees data found
+08-Nov-2022 16:47:17 INFO - Trainees data found
+08-Nov-2022 16:47:17 INFO - Trainees data found
+08-Nov-2022 16:47:26 INFO - Trainees data found
+08-Nov-2022 16:47:26 INFO - Trainees data found
+08-Nov-2022 16:48:53 INFO - Trainees data found
+08-Nov-2022 16:48:53 INFO - Trainees data found
+08-Nov-2022 16:49:00 INFO - Trainees data found
+08-Nov-2022 16:49:00 INFO - Trainees data found
+08-Nov-2022 16:49:55 INFO - Trainees data found
+08-Nov-2022 16:49:55 INFO - Trainees data found
+08-Nov-2022 16:49:59 INFO - Trainees data found
+08-Nov-2022 16:49:59 INFO - Trainees data found
+08-Nov-2022 16:54:01 INFO - Trainees data found
+08-Nov-2022 16:54:01 INFO - Trainees data found
+08-Nov-2022 16:54:33 INFO - Trainees data found
+08-Nov-2022 16:54:51 INFO - Trainees data found
+08-Nov-2022 16:54:51 INFO - Trainees data found
+08-Nov-2022 16:54:55 INFO - Trainees data found
+08-Nov-2022 16:54:55 INFO - Trainees data found
+08-Nov-2022 16:55:15 INFO - Trainees data found
+08-Nov-2022 16:55:15 INFO - Trainees data found
+08-Nov-2022 16:55:18 INFO - Trainees data found
+08-Nov-2022 16:55:18 INFO - Trainees data found
+08-Nov-2022 16:55:40 INFO - Trainees data found
+08-Nov-2022 16:55:40 INFO - Trainees data found
+08-Nov-2022 16:55:49 INFO - Trainees data found
+08-Nov-2022 16:55:49 INFO - Trainees data found
+08-Nov-2022 16:56:22 INFO - Trainees data found
+08-Nov-2022 16:56:22 INFO - Trainees data found
+08-Nov-2022 16:56:51 INFO - Trainees data found
+08-Nov-2022 16:56:51 INFO - Trainees data found
+08-Nov-2022 16:56:56 INFO - Trainees data found
+08-Nov-2022 16:56:56 INFO - Trainees data found
+08-Nov-2022 16:57:50 INFO - Trainees data found
+08-Nov-2022 16:57:50 INFO - Trainees data found
+08-Nov-2022 16:58:27 INFO - Trainees data found
+08-Nov-2022 16:58:27 INFO - Trainees data found
+08-Nov-2022 16:58:34 INFO - Trainees data found
+08-Nov-2022 16:58:34 INFO - Trainees data found
+08-Nov-2022 16:59:20 INFO - Trainees data found
+08-Nov-2022 16:59:20 INFO - Trainees data found
+08-Nov-2022 16:59:24 INFO - Trainees data found
+08-Nov-2022 16:59:24 INFO - Trainees data found
+08-Nov-2022 16:59:37 INFO - Trainees data found
+08-Nov-2022 16:59:37 INFO - Trainees data found
+08-Nov-2022 17:02:40 INFO - Trainees data found
+08-Nov-2022 17:02:40 INFO - Trainees data found
+08-Nov-2022 17:02:47 INFO - Trainees data found
+08-Nov-2022 17:02:47 INFO - Trainees data found
+08-Nov-2022 17:04:00 INFO - Trainees data found
+08-Nov-2022 17:04:00 INFO - Trainees data found
+08-Nov-2022 17:04:24 INFO - Trainees data found
+08-Nov-2022 17:04:55 INFO - Trainees data found
+08-Nov-2022 17:05:03 INFO - Trainees data found
+08-Nov-2022 17:05:25 INFO - Trainees data found
+08-Nov-2022 17:05:30 INFO - Trainees data found
+08-Nov-2022 17:05:30 INFO - Trainees data found
+08-Nov-2022 17:05:47 INFO - Trainees data found
+08-Nov-2022 17:05:50 INFO - Trainees data found
+08-Nov-2022 17:05:50 INFO - Trainees data found
+08-Nov-2022 17:06:01 INFO - Trainees data found
+08-Nov-2022 17:06:01 INFO - Trainees data found
+08-Nov-2022 17:07:10 INFO - Trainees data found
+08-Nov-2022 17:07:10 INFO - Trainees data found
+08-Nov-2022 17:08:50 INFO - Trainees data found
+08-Nov-2022 17:08:50 INFO - Trainees data found
+08-Nov-2022 17:08:55 INFO - Trainees data found
+08-Nov-2022 17:08:55 INFO - Trainees data found
+08-Nov-2022 17:13:58 INFO - Trainees data found
+08-Nov-2022 17:13:58 INFO - Trainees data found
+08-Nov-2022 17:14:46 INFO - Trainees data found
+08-Nov-2022 17:14:46 INFO - Trainees data found
+08-Nov-2022 17:15:55 INFO - Trainees data found
+08-Nov-2022 17:15:55 INFO - Trainees data found
+08-Nov-2022 17:16:04 INFO - Trainees data found
+08-Nov-2022 17:16:04 INFO - Trainees data found
+08-Nov-2022 17:16:20 INFO - Trainees data found
+08-Nov-2022 17:16:20 INFO - Trainees data found
+08-Nov-2022 17:16:29 INFO - Trainees data found
+08-Nov-2022 17:16:50 INFO - Trainees data found
+08-Nov-2022 17:17:03 INFO - Trainees data found
+08-Nov-2022 17:17:18 INFO - Trainees data found
+08-Nov-2022 17:17:21 INFO - Trainees data found
+08-Nov-2022 17:17:21 INFO - Trainees data found
+08-Nov-2022 17:17:27 INFO - Trainees data found
+08-Nov-2022 17:17:30 INFO - Trainees data found
+08-Nov-2022 17:17:30 INFO - Trainees data found
+08-Nov-2022 17:18:46 INFO - Trainees data found
+08-Nov-2022 17:18:46 INFO - Trainees data found
+08-Nov-2022 17:19:02 INFO - Trainees data found
+08-Nov-2022 17:19:02 INFO - Trainees data found
+08-Nov-2022 17:19:05 INFO - Trainees data found
+08-Nov-2022 17:19:05 INFO - Trainees data found
+08-Nov-2022 17:19:24 INFO - Trainees data found
+08-Nov-2022 17:19:24 INFO - Trainees data found
+08-Nov-2022 17:19:27 INFO - Trainees data found
+08-Nov-2022 17:19:27 INFO - Trainees data found
+08-Nov-2022 17:21:05 INFO - Trainees data found
+08-Nov-2022 17:21:05 INFO - Trainees data found
+08-Nov-2022 17:21:09 INFO - Trainees data found
+08-Nov-2022 17:21:09 INFO - Trainees data found
+08-Nov-2022 17:21:56 INFO - Trainees data found
+08-Nov-2022 17:21:56 INFO - Trainees data found
+08-Nov-2022 17:22:06 INFO - Trainees data found
+08-Nov-2022 17:22:10 INFO - Trainees data found
+08-Nov-2022 17:22:10 INFO - Trainees data found
+08-Nov-2022 17:22:38 INFO - Trainees data found
+08-Nov-2022 17:22:38 INFO - Trainees data found
+08-Nov-2022 17:22:41 INFO - Trainees data found
+08-Nov-2022 17:22:41 INFO - Trainees data found
+08-Nov-2022 17:23:00 INFO - Trainees data found
+08-Nov-2022 17:24:18 INFO - Trainees data found
+08-Nov-2022 17:24:21 INFO - Trainees data found
+08-Nov-2022 17:24:21 INFO - Trainees data found
+08-Nov-2022 17:25:18 INFO - Trainees data found
+08-Nov-2022 17:25:18 INFO - Trainees data found
+08-Nov-2022 17:25:57 INFO - Trainees data found
+08-Nov-2022 17:25:57 INFO - Trainees data found
+08-Nov-2022 17:26:43 INFO - Trainees data found
+08-Nov-2022 17:27:49 INFO - Trainees data found
+08-Nov-2022 17:29:31 INFO - Trainees data found
+08-Nov-2022 17:29:51 INFO - Trainees data found
+08-Nov-2022 17:29:54 INFO - Trainees data found
+08-Nov-2022 17:29:54 INFO - Trainees data found
+08-Nov-2022 17:30:30 INFO - Trainees data found
+08-Nov-2022 17:31:09 INFO - Trainees data found
+08-Nov-2022 17:34:06 INFO - Trainees data found
+08-Nov-2022 17:34:13 INFO - Trainees data found
+08-Nov-2022 17:34:13 INFO - Trainees data found
+08-Nov-2022 17:36:26 INFO - Trainees data found
+08-Nov-2022 17:42:20 INFO - Trainees data found
+08-Nov-2022 17:43:56 INFO - Trainees data found
+08-Nov-2022 17:44:10 INFO - Trainees data found
+08-Nov-2022 17:44:32 INFO - Trainees data found
+08-Nov-2022 17:45:13 INFO - Trainees data found
+08-Nov-2022 17:45:13 INFO - Trainees data found
+08-Nov-2022 17:50:58 INFO - Trainees data found
+08-Nov-2022 17:52:24 INFO - user successfully registered
+08-Nov-2022 17:52:34 INFO - user successfully registered
+08-Nov-2022 17:52:37 INFO - Trainees data found
+08-Nov-2022 17:52:37 INFO - Trainees data found
+08-Nov-2022 20:24:16 INFO - Starting WomenEmpowermentApplication using Java 17.0.4.1 on lin80033247 with PID 8776 (C:\Users\gakumars\Documents\womenEmpGit\Sprint1\WomenEmpowerment\target\classes started by gakumars in C:\Users\gakumars\Documents\womenEmpGit\Sprint1\WomenEmpowerment)
+08-Nov-2022 20:24:16 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+08-Nov-2022 20:24:16 INFO - No active profile set, falling back to 1 default profile: "default"
+08-Nov-2022 20:24:24 INFO - Started WomenEmpowermentApplication in 8.988 seconds (JVM running for 9.868)
+08-Nov-2022 20:26:24 INFO - All training courses found
